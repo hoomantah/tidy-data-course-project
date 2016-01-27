@@ -1,5 +1,5 @@
 ## Getting and Cleaning Data Course Project
-This is the project github repo for the Johns Hopkins University, **Getting and Cleaning Data** course
+This is the github repo for the Johns Hopkins University, **Getting and Cleaning Data** course final project.
 
 ### Intro
 The data used for this project are from UCI Human Activity Recognition dataset. You can find detailed information [here](http://archive.ics.uci.edu/ml/datasets/Human+Activity+Recognition+Using+Smartphones).
