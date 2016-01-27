@@ -1,5 +1,6 @@
 ## Getting and Cleaning Data Course Project
 by Hooman Taherinia
+
 **Dataset:** `UCI_HAR_averages.txt`
 
 ### CodeBook.md
