@@ -39,7 +39,7 @@ The assignment was to create one R script called run_analysis.R that does the fo
 4. Appropriately labels the data set with descriptive activity names. 
 5. Creates a second, independent tidy data set with the average of each variable for each activity and each subject. 
 
-### CodeBook
+### The CodeBook
 There are more information about the variables in the CodeBook.MD file.
 
 
@@ -50,11 +50,12 @@ There are more information about the variables in the CodeBook.MD file.
 > - The `UCI_HAR_averages.txt` has the blank separator of (" "); anyways you can read it using `read.table` command in **R**.
 > - Order of the final output variables are:
 > 
-> | activity | subject | tBodyAccMeanX | ...
-> | :----------------------------- | :-----: | ------------: |
-> | WALKING                      | 1   |  0.277330758736842    |
-> | WALKING_UPSTAIRS      | 1   |  0.255461689622641   |
-> | WALKING_DOWNSTAIRS | 1   |  0.289188320408163  |
+> | activity | subject | tBodyAccMeanX |  ...  |
+> | :----------------------------- | :-----: | ------------: | :---: |
+> | WALKING                      | 1   |  0.277330758736842    | ...   |
+> | WALKING_UPSTAIRS      | 1   |  0.255461689622641   | ...   |
+> | WALKING_DOWNSTAIRS | 1   |  0.289188320408163  | ...   |
+
 
 
 Good luck :)
